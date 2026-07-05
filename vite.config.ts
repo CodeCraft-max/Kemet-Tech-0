@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Kemet-Tech-2/',
+  base: '/Kemet-Tech-0/',
 })
